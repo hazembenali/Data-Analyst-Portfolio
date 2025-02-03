@@ -37,3 +37,7 @@ El Wafa high-school: baccalaureate degree(16.85/20), Economics and Management, 2
 - Nvidia fundementals of deep learning
 
 ## Let's Connect
+LinkedIn: https://www.linkedin.com/in/hazem-ben-ali
+
+
+Email: hazem.benali.39@gmail.com
