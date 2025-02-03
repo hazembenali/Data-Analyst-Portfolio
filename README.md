@@ -8,7 +8,7 @@ This repository is where I will be showcasing my skills and tracking my progress
 - [About Me](#about)
 - [Featured Projects](#featured-projects)
   - SQL
-    - [Music Store Data Exploration](#music-store-data-exploration)
+    - [Employee Performance, Customer Behaviour, and Sales Analysis for a Music Store](#employee-performance-customer-behaviour-and-sales-analysis-for-a-music-store)
   - Excel
     - Bike Sales Visualization
 - [education](#education)
@@ -18,7 +18,7 @@ This repository is where I will be showcasing my skills and tracking my progress
 ## Featured Projects
 In this section I will briefly describe the different projects I worked on mentioning the technology stack used and any other relevant details
 
-### Music Store Data Exploration
+### Employee Performance, Customer Behaviour, and Sales Analysis for a Music Store
 #### Code
 #### Description:
 This project involves analyzing a music store's database to gain insights into employee performance, customer behavior, sales trends, and product popularity.
