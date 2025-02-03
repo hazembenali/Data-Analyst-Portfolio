@@ -20,9 +20,12 @@ In this section I will briefly describe the different projects I worked on menti
 
 ### Music Store Data Exploration
 #### Code
-#### Description
-#### Skills
-#### Technologies
+#### Description:
+This project involves analyzing a music store's database to gain insights into employee performance, customer behavior, sales trends, and product popularity.
+#### Skills:
+Subqueries, CTEs, Window functions, Aggregate functions, Date and Time manipulation, Joins, Filtering, String manipulation, Data formatting, Statistical analysis
+#### Technologies: 
+PostgreSQL
 
 ## Education
 Tunis Business School: Bechelor's degree, business administration, 2023-2027
