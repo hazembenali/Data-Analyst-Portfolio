@@ -19,7 +19,7 @@ This repository is where I will be showcasing my skills and tracking my progress
 In this section I will briefly describe the different projects I worked on mentioning the technology stack used and any other relevant details
 
 ### Employee Performance, Customer Behaviour, and Sales Analysis for a Music Store
-#### Code
+#### [Code](https://github.com/hazembenali/Data-Analyst-Portfolio/tree/main/Employee%20Performance%2C%20Customer%20Behaviour%2C%20and%20Sales%20Analysis%20for%20a%20Music%20Store/SQL)
 #### Description:
 This project involves analyzing a music store's database to gain insights into employee performance, customer behavior, sales trends, and product popularity.
 #### Skills:
