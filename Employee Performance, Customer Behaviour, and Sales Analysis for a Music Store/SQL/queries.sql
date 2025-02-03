@@ -1,4 +1,4 @@
---the most senion employee in every job title
+--the most senior employee in every job title
 SELECT CONCAT(first_name,' ', last_name) AS employee_name,
 	title
 FROM employees
