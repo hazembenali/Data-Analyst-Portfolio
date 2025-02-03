@@ -35,9 +35,9 @@ El Wafa high-school: baccalaureate degree(16.85/20), Economics and Management, 2
 
 ## Certifications
 
-- Data Analyst Associate Datacamp
-- CS50 AI
-- Nvidia fundementals of deep learning
+- [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0011066045957) (DataCamp) (Obtained: 2025. Expires: 2027)
+- [CS50 Introduction to Artificial Intelligence with Python](https://certificates.cs50.io/4258452e-83bf-40d1-bf5c-c981b1a15625.pdf?size=letter) (edX-Harvard) (Obtained: 2024)
+- [Fundementals of Deep Learning](https://learn.nvidia.com/certificates?id=9j2YgxUIRiGphCHNxwVv0A) (Nvidia) (Obtained: 2024)
 
 ## Let's Connect
 LinkedIn: https://www.linkedin.com/in/hazem-ben-ali
