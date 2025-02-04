@@ -1,4 +1,4 @@
-# SQL Analytics Project
+# Employee Performance, Customer Behaviour, and Sales Analysis for a Music Store
 
 ## Overview
 This project contains a collection of SQL queries designed to analyze various business metrics and customer behaviors from a music sales database. The queries cover employee management, customer spending habits, sales performance, genre popularity, and more.
