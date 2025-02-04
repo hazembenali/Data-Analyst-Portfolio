@@ -148,13 +148,13 @@ FROM (SELECT
 GROUP BY customer_id
 ORDER BY average_time
 
---The Average Time Between Customer Invoices For All Customers
+--The Average Time Between Received Invoices
 SELECT 
-	DATE_TRUNC('hour', AVG(invoice_date::TIMESTAMP-previous_invoice::TIMESTAMP)) AS average_time
+	DATE_TRUNC('hour', AVG(invoice_date::TIMESTAMP-previous_invoice::TIMESTAMP)) AS average_time_between_invoices
 FROM (SELECT 
 		customer_id
 		,invoice_date
-		,LAG(invoice_date) OVER(PARTITION BY customer_id ORDER BY invoice_date) AS previous_invoice
+		,LAG(invoice_date) OVER(ORDER BY invoice_date) AS previous_invoice
 	FROM invoices
 	)
 
