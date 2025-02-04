@@ -37,7 +37,11 @@ The project includes the following SQL queries:
     Identifies tracks in the database that have never been sold.
 
 ## Technologies Used
-- **PostgreSQL** 
+- **PostgreSQL**
+## Database Schema
+To better understand the structure of the database and the relationships between tables, refer to the schema diagram below:
+
+![Database Schema](path/to/schema-image.png)
 
 ## How to Use
 1. Ensure you have access to the relevant music sales database.
