@@ -30,7 +30,7 @@ The project includes the following SQL queries:
 8. **The Average Time Between Customer Invoices Per Customer**  
    Computes the average time gap between invoices for each customer.
 
-9. **The Average Time Between Customer Invoices for All Customers**  
+9. **The Average Time Between Received Invoices**  
    Calculates the overall average time between customer invoices.
 
 10. **List of Tracks That Did Not Get Any Sales**  
