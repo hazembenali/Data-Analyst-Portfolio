@@ -1,3 +1,10 @@
+----------------------------------------------------------------------------
+/*
+This project answers 10 questions related to employee performance, customer behavior and sales of a music store.
+Skills used: CTEs, Subqueres, Joins, String manipulation and formatting, Grouping, filtering, Window functions, Aggregate functions, Date and time manipulation and formatting
+*/
+----------------------------------------------------------------------------
+
 --the most senior employee in every job title
 SELECT CONCAT(first_name,' ', last_name) AS employee_name,
 	title
