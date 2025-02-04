@@ -41,7 +41,7 @@ The project includes the following SQL queries:
 ## Database Schema
 To better understand the structure of the database and the relationships between tables, refer to the schema diagram below:
 
-![Database Schema](path/to/schema-image.png)
+![Image](https://github.com/user-attachments/assets/963b8c95-f781-422d-9854-6b0702fc9531)
 
 ## How to Use
 1. Ensure you have access to the relevant music sales database.
